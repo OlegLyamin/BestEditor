@@ -16,5 +16,10 @@ namespace Editor
         {
             InitializeComponent();
         }
+
+        private void canvas_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
